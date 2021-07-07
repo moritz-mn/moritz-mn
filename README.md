@@ -4,6 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moritz-mn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moritz-mn)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **moritz-mn/moritz-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
