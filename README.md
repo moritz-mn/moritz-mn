@@ -1,5 +1,4 @@
 ### Hi there 👋
-{{ ACCOUNT_AGE }}
 
 <!--
 **moritz-mn/moritz-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
